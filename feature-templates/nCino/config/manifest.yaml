@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01zF6E1Z-User Interface:
+          path: dataset/01zF6E1Z-User Interface
+          prefix: ncino
+          standardFeature: false
+          versions:
+            05 April 2021:
+              modifiedDate: '2021-09-01 18:29:30'
