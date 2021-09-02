@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             05 April 2021:
               modifiedDate: '2021-09-01 18:29:30'
+        01zF6E1Z-Questionaire:
+          path: dataset/01zF6E1Z-Questionaire
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Spring 2020 v3:
+              modifiedDate: '2021-09-02 14:12:49'
