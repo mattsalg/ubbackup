@@ -1,0 +1,42 @@
+[
+  {
+    "name": "LLC_BI__DocManager__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__ClosingChecklist__c": "LLC_BI__docManager__c",
+      "LLC_BI__DocClass__c": "LLC_BI__docManager__c",
+      "LLC_BI__DocTab__c": "LLC_BI__docManager__c",
+      "LLC_BI__DocType__c": "LLC_BI__docManager__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__DocTab__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__ClosingChecklist__c": "LLC_BI__docTab__c",
+      "LLC_BI__ProductDocTab__c": "LLC_BI__DocTab__c",
+      "LLC_BI__DocType__c": "LLC_BI__docTab__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__DocType__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__ClosingChecklist__c": "LLC_BI__docType__c",
+      "LLC_BI__DocClass__c": "LLC_BI__DocType__c",
+      "LLC_BI__DocType_Role__c": "LLC_BI__DocType__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  }
+]

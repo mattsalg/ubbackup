@@ -24,3 +24,10 @@ packageDirectories:
           versions:
             Spring 2020 V2:
               modifiedDate: '2021-09-02 14:18:13'
+        01zF6E1Z-Document Manager:
+          path: dataset/01zF6E1Z-Document Manager
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Spring 2020 V1:
+              modifiedDate: '2021-09-02 14:25:30'
