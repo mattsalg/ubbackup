@@ -66,3 +66,10 @@ packageDirectories:
           versions:
             05 April 2021:
               modifiedDate: '2021-09-02 15:04:59'
+        10g3wC1H-Statistic Configurations:
+          path: dataset/10g3wC1H-Statistic Configurations
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Fall 2019:
+              modifiedDate: '2021-09-02 15:05:26'

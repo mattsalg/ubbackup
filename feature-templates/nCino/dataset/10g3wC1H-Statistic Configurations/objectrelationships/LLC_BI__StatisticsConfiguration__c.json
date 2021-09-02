@@ -1,0 +1,11 @@
+[
+  {
+    "name": "LLC_BI__StatisticsConfiguration__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "setupownerid"
+    ],
+    "objectsetnum": 0
+  }
+]
