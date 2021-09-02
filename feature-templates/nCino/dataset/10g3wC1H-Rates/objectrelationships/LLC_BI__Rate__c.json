@@ -1,0 +1,11 @@
+[
+  {
+    "name": "LLC_BI__Rate__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  }
+]

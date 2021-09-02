@@ -38,3 +38,10 @@ packageDirectories:
           versions:
             Fall 2019:
               modifiedDate: '2021-09-02 14:42:27'
+        10g3wC1H-Rates:
+          path: dataset/10g3wC1H-Rates
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Fall 2019:
+              modifiedDate: '2021-09-02 14:46:41'
