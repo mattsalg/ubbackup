@@ -59,3 +59,10 @@ packageDirectories:
           versions:
             Fall 2019:
               modifiedDate: '2021-09-02 14:55:53'
+        01zF6E1Z-Product Hierarchy:
+          path: dataset/01zF6E1Z-Product Hierarchy
+          prefix: ncino
+          standardFeature: false
+          versions:
+            05 April 2021:
+              modifiedDate: '2021-09-02 15:04:59'

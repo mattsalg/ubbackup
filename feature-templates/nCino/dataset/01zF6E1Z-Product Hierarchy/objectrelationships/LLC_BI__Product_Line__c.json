@@ -1,0 +1,50 @@
+[
+  {
+    "name": "LLC_BI__Product_Feature__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Product__c": "LLC_BI__Product_Feature__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Line__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Product_Type__c": "LLC_BI__Product_Line__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Type__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Product_State_Config__c": "LLC_BI__Product_Type__c",
+      "LLC_BI__Bill_Point__c": "LLC_BI__Product_Type__c",
+      "LLC_BI__Product__c": "LLC_BI__Product_Type__c"
+    },
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_State_Config__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Bill_Point__c": "LLC_BI__Product__c",
+      "LLC_BI__Product_Funding_Method_Type__c": "LLC_BI__Product__c",
+      "LLC_BI__Product_Connection__c": "LLC_BI__Child_Product_Reference__c,LLC_BI__Parent_Product_Reference__c"
+    },
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  }
+]
