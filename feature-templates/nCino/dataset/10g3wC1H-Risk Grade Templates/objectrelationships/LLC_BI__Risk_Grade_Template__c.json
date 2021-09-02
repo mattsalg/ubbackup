@@ -1,0 +1,39 @@
+[
+  {
+    "name": "LLC_BI__Risk_Grade_Template__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Risk_Grade_Factor__c": "LLC_BI__Risk_Grade_Template__c",
+      "LLC_BI__Risk_Grade_Group__c": "LLC_BI__Risk_Grade_Template__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Risk_Grade_Group__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Risk_Grade_Factor__c": "LLC_BI__Risk_Grade_Group__c"
+    },
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Risk_Grade_Factor__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Risk_Grade_Criteria__c": "LLC_BI__Risk_Grade_Factor__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Risk_Grade_Criteria__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  }
+]

@@ -31,3 +31,10 @@ packageDirectories:
           versions:
             Spring 2020 V1:
               modifiedDate: '2021-09-02 14:25:30'
+        10g3wC1H-Risk Grade Templates:
+          path: dataset/10g3wC1H-Risk Grade Templates
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Fall 2019:
+              modifiedDate: '2021-09-02 14:42:27'
