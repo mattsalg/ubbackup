@@ -17,3 +17,10 @@ packageDirectories:
           versions:
             Spring 2020 v3:
               modifiedDate: '2021-09-02 14:12:49'
+        01zF6E1Z-Connection Roles:
+          path: dataset/01zF6E1Z-Connection Roles
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Spring 2020 V2:
+              modifiedDate: '2021-09-02 14:18:13'
