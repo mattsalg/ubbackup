@@ -52,3 +52,10 @@ packageDirectories:
           versions:
             Fall 2019:
               modifiedDate: '2021-09-02 14:55:11'
+        10g3wC1H-LLC_BI System Properties:
+          path: dataset/10g3wC1H-LLC_BI System Properties
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Fall 2019:
+              modifiedDate: '2021-09-02 14:55:53'
