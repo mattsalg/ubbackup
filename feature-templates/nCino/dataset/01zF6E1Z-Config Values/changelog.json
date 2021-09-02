@@ -1,0 +1,9 @@
+{
+  "orgName": "ncino.com-XvpRSM",
+  "key": "ncino-config values_spring 2020 v1",
+  "featureName": "ncino-Config Values",
+  "version": "Spring 2020 V1",
+  "changeLog": "Change entry object to LLC_BI__CFG_ConfigValue__c",
+  "createdBy": "erik.sinnard@ncino.com",
+  "createdDate": "2020-10-06 21:53:14"
+}
